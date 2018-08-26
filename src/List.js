@@ -8,7 +8,7 @@ export class ToDoList extends Component{
             <div>
             <ul>
             {this.props.items.map(item =>{
-               return <li >{item} </li>
+               return <li className='listing'>{item} </li>
             })}
    
             </ul>
