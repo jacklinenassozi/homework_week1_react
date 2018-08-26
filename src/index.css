@@ -1,7 +1,8 @@
 .heading{
     padding: 10px;
     color:blue;
-    font-size: 40px
+    font-size: 40px;
+    text-decoration: underline; 
 }
 .listing{
     line-height: 30px;
